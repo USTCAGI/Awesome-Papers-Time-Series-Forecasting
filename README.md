@@ -7,7 +7,7 @@ If you find this resource helpful, please consider starring this repository.
 
 🚩 **News** (Mar. 2025): We have created this repository.
 
-## Abstract
+## Abstract 🚀
 Time series forecasting (TSF) has become an increasingly vital tool in various decision-making applications, including business intelligence and scientific discovery, in today’s rapidly evolving digital landscape. Over the years, a wide range of methods for TSF has been proposed, spanning from traditional static-based models to more recent machine learning-driven, data-intensive approaches. Despite the extensive body of research, there is still no universally accepted, unified problem statement or systematic elaboration of the core challenges and characteristics of TSF. The extent to which deep TSF models can address fundamental issues—such as data sparsity and non-stationarity—remains unclear, and the broader TSF research landscape continues to evolve, shaped by diverse methodological trends. This comprehensive survey aims to address these gaps by examining the key entities in TSF (e.g., covariates) and their characteristics (e.g., frequency, length, missing values). We introduce a general problem formulation and challenge analysis for TSF, propose a taxonomy that classifies representative methodologies from the preprocessing and forecasting perspectives, and highlight emerging topics like transfer learning and trustworthy forecasting. Finally, we discuss promising research directions that are poised to drive innovation in this dynamic and rapidly advancing field.
 
 
