@@ -193,7 +193,13 @@ If you have any questions or suggestions, feel free to contact our team:
 Current:
 - Mingyue Cheng (mycheng@ustc.edu.cn,)
 - Zhiding Liu (zhiding@mail.ustc.edu.cn,)
-- Jintao Zhang (zjttt@mail.ustc.edu.cn)
+- Xiaoyu Tao (txytiny@mail.ustc.edu.cn,)
+- Jintao Zhang (zjttt@mail.ustc.edu.cn,)
+- Daoyu Wang (wdy030428@mail.ustc.edu.cn,)
+- Tingyue Pan (pty12345@mail.ustc.edu.cn,)
+- Panjing He (hepanjing@mail.ustc.edu.cn,)
+- Xiaohan Zhang (zxh2519826485@mail.ustc.edu.cn,)
+- Jiahao Wang (SA24229078@mail.ustc.edu.cn)
 
 ## All Thanks To Our Contributors
 
