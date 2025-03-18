@@ -1,5 +1,19 @@
 # Awesome-Papers-Time-Series-Forecasting
 
+> 🙋 Please let us know if you notice any mistakes or have any suggestions!
+If you find this resource helpful, please consider starring this repository.
+
+## Updates/News:
+
+🚩 **News** (Mar. 2025): We have created this repository.
+
+## Abstract
+Time series forecasting (TSF) has become an increasingly vital tool in various decision-making applications, including business intelligence and scientific discovery, in today’s rapidly evolving digital landscape. Over the years, a wide range of methods for TSF has been proposed, spanning from traditional static-based models to more recent machine learning-driven, data-intensive approaches. Despite the extensive body of research, there is still no universally accepted, unified problem statement or systematic elaboration of the core challenges and characteristics of TSF. The extent to which deep TSF models can address fundamental issues—such as data sparsity and non-stationarity—remains unclear, and the broader TSF research landscape continues to evolve, shaped by diverse methodological trends. This comprehensive survey aims to address these gaps by examining the key entities in TSF (e.g., covariates) and their characteristics (e.g., frequency, length, missing values). We introduce a general problem formulation and challenge analysis for TSF, propose a taxonomy that classifies representative methodologies from the preprocessing and forecasting perspectives, and highlight emerging topics like transfer learning and trustworthy forecasting. Finally, we discuss promising research directions that are poised to drive innovation in this dynamic and rapidly advancing field.
+
+<p align="center">
+<img src="./figures/content.png" height = "360" alt="" align=center />
+</p>
+
 ## Static-based Approaches
 - [Some  properties of a simple moving average when applied to fore casting a time series](https://www.tandfonline.com/doi/abs/10.1057/palgrave.jors.2600823) [Journal of the Operational Research Society, 1999]
 - [Forecasting seasonals and trends by exponentially  weighted moving averages](https://www.sciencedirect.com/science/article/pii/S0169207003001134) [International journal of forecasting, 2004]
