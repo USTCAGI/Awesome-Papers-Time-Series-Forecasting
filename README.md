@@ -191,10 +191,9 @@ Time series forecasting (TSF) has become an increasingly vital tool in various d
 If you have any questions or suggestions, feel free to contact our team:
 
 Current:
-- Zhiding Liu(Ph.D. student, wuhx23@mails.tsinghua.edu.cn)
-- Yong Liu (Ph.D. student, liuyong21@mails.tsinghua.edu.cn)
-- Yuxuan Wang (Ph.D. student, wangyuxu22@mails.tsinghua.edu.cn)
-- Huikun Weng (Undergraduate, wenghk22@mails.tsinghua.edu.cn)
+- Mingyue Cheng (mycheng@ustc.edu.cn,)
+- Zhiding Liu (zhiding@mail.ustc.edu.cn,)
+- Jintao Zhang (zjttt@mail.ustc.edu.cn)
 
 ## All Thanks To Our Contributors
 
