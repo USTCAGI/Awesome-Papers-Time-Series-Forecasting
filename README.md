@@ -2,13 +2,12 @@
 <div align="center">
   <h2><b> A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions (Preprint, ArXiv 2025) </b></h2>
 </div>
-
 <div align="center">
 
-![](https://img.shields.io/github/last-commit/USTCAGI/Awesome-Papers-Time-Series-Forecasting
-?color=green)![](https://img.shields.io/github/stars/USTCAGI/Awesome-Papers-Time-Series-Forecasting
-?color=yellow)![](https://img.shields.io/github/forks/USTCAGI/Awesome-Papers-Time-Series-Forecasting
-?color=lightblue)![](https://img.shields.io/badge/PRs-Welcome-green)
+![](https://img.shields.io/github/last-commit/USTCAGI/Awesome-Papers-Time-Series-Forecasting?color=green)
+![](https://img.shields.io/github/stars/USTCAGI/Awesome-Papers-Time-Series-Forecasting?color=yellow)
+![](https://img.shields.io/github/forks/USTCAGI/Awesome-Papers-Time-Series-Forecasting?color=lightblue)
+![](https://img.shields.io/badge/PRs-Welcome-green)
 
 </div>
 
