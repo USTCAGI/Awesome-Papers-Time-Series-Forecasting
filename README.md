@@ -5,10 +5,10 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/last-commit/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation?color=green)
-![](https://img.shields.io/github/stars/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation?color=yellow)
-![](https://img.shields.io/github/forks/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation?color=lightblue)
-![](https://img.shields.io/badge/PRs-Welcome-green)
+![](https://img.shields.io/github/last-commit/USTCAGI/Awesome-Papers-Time-Series-Forecasting
+?color=green)![](https://img.shields.io/github/stars/USTCAGI/Awesome-Papers-Time-Series-Forecasting
+?color=yellow)![](https://img.shields.io/github/forks/USTCAGI/Awesome-Papers-Time-Series-Forecasting
+?color=lightblue)![](https://img.shields.io/badge/PRs-Welcome-green)
 
 </div>
 
