@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2><b> A Comprehensive Survey of Time Series Forecasting: Concepts, \\ Challenges, and Future Directions </b></h2>
+  <h2><b> A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions (Preprint, ArXiv 2025) </b></h2>
 </div>
 
 <div align="center">
