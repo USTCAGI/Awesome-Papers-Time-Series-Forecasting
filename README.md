@@ -1,4 +1,17 @@
-# Title: A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions
+
+<div align="center">
+  <h2><b> A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions </b></h2>
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/github/last-commit/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation?color=green)
+![](https://img.shields.io/github/stars/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation?color=yellow)
+![](https://img.shields.io/github/forks/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation?color=lightblue)
+![](https://img.shields.io/badge/PRs-Welcome-green)
+
+</div>
+
 
 > 🙋 Please let us know if you notice any mistakes or have any suggestions!
 If you find this resource helpful, please consider starring this repository.
